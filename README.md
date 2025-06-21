@@ -1,7 +1,4 @@
 <p align="center">
-    <a href="https://calculator.osc.garden">
-        <img src="https://raw.githubusercontent.com/welpo/stop-early-stopping/main/robot.png" width="150" alt="Robot">
-    </a>
     <br>
     <a href="#contributing">
         <img src="https://img.shields.io/badge/PRs-welcome-0?style=flat-square&labelcolor=202b2d&color=4a5568" alt="PRs welcome"></a>
