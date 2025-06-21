@@ -1,5 +1,4 @@
 <p align="center">
-    <br>
     <a href="#contributing">
         <img src="https://img.shields.io/badge/PRs-welcome-0?style=flat-square&labelcolor=202b2d&color=4a5568" alt="PRs welcome"></a>
     <a href="#license">
